@@ -1,0 +1,49 @@
+
+body{
+    font-family: 'Poppins', sans-serif;  
+}
+
+.diff-color{
+    color:orange;
+    
+
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    padding-bottom: 5%;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    
+}
+.half-width-write
+{
+    margin-left: 70px;
+    margin-top: 120px;
+}
+.half-width-img{
+    margin-left: 70px;
+    margin-top: 50px;
+}
+
+
+.half-width img{
+    width: 110%;
+}
+
+.button-design
+{
+    background: linear-gradient(45deg, yellow, aqua);
+    text-decoration: none;
+    padding: 20px 20px 20px 20px;
+    border-radius: 20px;
+   
+
+}
