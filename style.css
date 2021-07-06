@@ -16,6 +16,16 @@ section{
     margin-left: 5%;
     padding-left: 2%;
 }
+.half-width2{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.half-width2 img{
+    margin-top: 30px;
+}
 h1{
     font-size: 50px;
 }
@@ -25,9 +35,11 @@ h1 span{
 .half-width img{
     width: 100%;
 }
+
+
 .anchor-button{
     text-decoration: none;
-    background: linear-gradient(45deg, lightsalmon, tomato);
+    background: linear-gradient(45deg, yellow, aqua);
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
@@ -37,7 +49,7 @@ p{
     color: dimgray;
 }
 .dream-area{
-    background-image: url("images/dream-bg.png");
+    background-image: url("images/shapes/7.png");
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -138,13 +150,16 @@ h2{
     font-size:16px;
     float: left;
     margin:10px;
-    border-radius:30px;
+    border-radius:20px;
     
 }
 .card :hover{
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6);
-    border-radius:30px;
+    border-radius:20px;
 }
 .container{
     padding: 2px 16px;
+}
+section p{
+    text-align: justify;
 }
