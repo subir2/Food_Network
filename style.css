@@ -47,6 +47,7 @@ h1 span{
 }
 p{
     color: dimgray;
+    padding-bottom: 4%;
 }
 .dream-area{
     background-image: url("images/shapes/7.png");
@@ -109,6 +110,7 @@ h2{
 .test p{
     
  text-align: center; 
+ padding-bottom: 0;
 }
 
 
@@ -163,3 +165,30 @@ h2{
 section p{
     text-align: justify;
 }
+
+
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px 12px 12px 12px;
+    border: 1px solid yellow;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+ 
+  
+ 
+  .container1 {
+      width: 93%;
+    border-radius: 5px;
+    background-color: bisque;
+    padding: 20px ;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    
+  }
